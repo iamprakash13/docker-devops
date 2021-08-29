@@ -1,5 +1,16 @@
 # Docker
 
+- What is docker?
+Docker is opensource containersation platform. It enabled developers to package application into containers.
+
+- What is container?
+Containers are isolated environment to run thier own process/ services in it.
+
+- Why docker?
+* standalone
+* lightweight, portable
+* compactibility
+
 ## Projects
 - Getting started
 
