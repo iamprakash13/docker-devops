@@ -38,4 +38,4 @@ docker rmi nginx
  <img src="http://img.youtube.com/vi/nTQUwghvy5Q/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
 </a>
 
-[![Watch the video](https://img.youtube.com/vi/nTQUwghvy5Q/maxresdefault.jpg)](https://youtu.be/nTQUwghvy5Q)
+[![Watch the video](https://img.youtube.com/vi/nTQUwghvy5Q/hqdefault.jpg)](https://youtu.be/nTQUwghvy5Q)
