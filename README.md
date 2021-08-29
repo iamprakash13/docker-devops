@@ -39,3 +39,4 @@ docker rmi nginx
 </a>
 
 <!-- [![Watch the video](https://img.youtube.com/vi/nTQUwghvy5Q/hqdefault.jpg)](https://youtu.be/nTQUwghvy5Q) -->
+<!-- https://www.youtube.com/playlist?list=PLR2KEob4HfWBSCyxx6h3Iq6bWw7hNwk3j -->
