@@ -7,8 +7,8 @@ Docker is opensource containersation platform. It enabled developers to package 
 Containers are isolated environment to run thier own process/ services in it.
 
 - Why docker?
-standalone
-lightweight, portable
+standalone,
+lightweight, portable,
 compactibility
 
 ## Projects
