@@ -1,0 +1,6 @@
+#add files that need to be ignored here
+.env
+#docker-compose.yaml
+dags
+logs
+plugins
