@@ -23,27 +23,31 @@ curl -LfO 'https://airflow.apache.org/docs/apache-airflow/2.1.3/docker-compose.y
 
 2. Intializing environment
 Incase of windows use this cmd:
+```
 mkdir ./dags ./logs ./plugins
-Set environment variable AIRFLOW_UID = 1000(id -u from WSL), AIRFLOW_GID = 0 in else: 
+Set environment variable AIRFLOW_UID = 1000(id -u from WSL), AIRFLOW_GID = 0
+```
+in else: 
 ```
 mkdir -p ./dags ./logs ./plugins
 echo -e "AIRFLOW_UID=$(id -u)\nAIRFLOW_GID=0" > .env
 ```
-docker-compose up airflow-init
+```docker-compose up airflow-init```
+
 By default, The account created has the login airflow and the password airflow
 
 3. Running airflow
-docker-compose up
+```docker-compose up```
 
 4. Access airflow using browser
 The webserver available at: http://localhost:8080
 (OR)
 by running commands:
-docker-compose run airflow-worker airflow info
+```docker-compose run airflow-worker airflow info```
 
 
 5. Cleaning up environment
-docker-compose down --volumes --rmi all
+```docker-compose down --volumes --rmi all```
 
 
 ---
